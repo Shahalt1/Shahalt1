@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shahalt1
+- 👋 Hi, I’m Shahal Thayyil
 - 👀 I’m interested in Robotics and Programming
 - 📫 How to reach me shahalthayyil2020@gmail.com
 - 😄 Pronouns: Mr.
-
-
+- I am from Kerela, India
+- Tech Stack 1 : Frontend(Next.js + React) and Backend(PocketBase + Python)
