@@ -5,3 +5,5 @@
 - I am from Kerela, India
 - Tech Stack 1 : Frontend(Next.js + React) and Backend(PocketBase + Python)
 - Currently working : Testzeus AI
+- 🚀 Always hacking on something new.
+- 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/shahal-thayyil-228108212/)
